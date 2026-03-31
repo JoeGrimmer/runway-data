@@ -1,0 +1,14 @@
+[
+  {
+    "partner": "KrisFlyer",
+    "hasBonus": true,
+    "bonusPercent": 15,
+    "expires": "2026-04-20"
+  },
+  {
+    "partner": "Velocity",
+    "hasBonus": false,
+    "bonusPercent": null,
+    "expires": null
+  }
+]
