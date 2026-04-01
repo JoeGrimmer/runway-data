@@ -10,5 +10,11 @@
     "hasBonus": false,
     "bonusPercent": null,
     "expires": null
+  },
+  {
+    "partner": "Asia Miles",
+    "hasBonus": true,
+    "bonusPercent": 10,
+    "expires": "2026-04-10"
   }
 ]
