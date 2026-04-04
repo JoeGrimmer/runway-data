@@ -3,42 +3,42 @@
     "partner": "KrisFlyer",
     "hasBonus": true,
     "bonusPercent": 15,
-    "expires": "2026-04-20"
+    "expires": "2026-04-20",
     "detail": "Example bonus entry"
   },
   {
     "partner": "Velocity",
     "hasBonus": false,
     "bonusPercent": null,
-    "expires": null
+    "expires": null,
     "detail": "Example bonus entry"
   },
   {
     "partner": "Asia Miles",
     "hasBonus": true,
     "bonusPercent": 10,
-    "expires": "2026-04-10"
+    "expires": "2026-04-10",
     "detail": "Example bonus entry"
   },
   {
     "partner": "Emirates Skywards",
     "hasBonus": true,
     "bonusPercent": 25,
-    "expires": "2026-06-02"
+    "expires": "2026-06-02",
     "detail": "Example bonus entry"
   },
   {
     "partner": "Qatar Airways Privilege Club",
     "hasBonus": false,
     "bonusPercent": null,
-    "expires": null
+    "expires": null,
     "detail": "Example bonus entry"
   },
   {
     "partner": "Air New Zealand Airpoints",
     "hasBonus": false,
     "bonusPercent": null,
-    "expires": null
+    "expires": null,
     "detail": "Example bonus entry"
   },
 ]
