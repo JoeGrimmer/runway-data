@@ -5,6 +5,8 @@
     "bonusPercent": 15,
     "expires": "2026-04-20",
     "detail": "Example bonus entry"
+    "source": "https://www.americanexpress.com/en-au/rewards/membership-rewards/",
+    "checkedAt": "2026-04-06"
   },
   {
     "partner": "Velocity",
