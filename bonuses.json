@@ -13,34 +13,44 @@
     "hasBonus": false,
     "bonusPercent": null,
     "expires": null,
-    "detail": "Example bonus entry"
+    "detail": "Example bonus entry",
+    "source": "https://www.americanexpress.com/en-au/rewards/membership-rewards/",
+    "checkedAt": "2026-04-06"
   },
   {
     "partner": "Asia Miles",
     "hasBonus": true,
     "bonusPercent": 10,
     "expires": "2026-04-10",
-    "detail": "Example bonus entry"
+    "detail": "Example bonus entry",
+    "source": "https://www.americanexpress.com/en-au/rewards/membership-rewards/",
+    "checkedAt": "2026-04-06"
   },
   {
     "partner": "Emirates Skywards",
     "hasBonus": true,
     "bonusPercent": 25,
     "expires": "2026-06-02",
-    "detail": "Example bonus entry"
+    "detail": "Example bonus entry",
+    "source": "https://www.americanexpress.com/en-au/rewards/membership-rewards/",
+    "checkedAt": "2026-04-06"
   },
   {
     "partner": "Qatar Airways Privilege Club",
     "hasBonus": false,
     "bonusPercent": null,
     "expires": null,
-    "detail": "Example bonus entry"
+    "detail": "Example bonus entry",
+    "source": "https://www.americanexpress.com/en-au/rewards/membership-rewards/",
+    "checkedAt": "2026-04-06"
   },
   {
     "partner": "Air New Zealand Airpoints",
     "hasBonus": false,
     "bonusPercent": null,
     "expires": null,
-    "detail": "Example bonus entry"
+    "detail": "Example bonus entry",
+    "source": "https://www.americanexpress.com/en-au/rewards/membership-rewards/",
+    "checkedAt": "2026-04-06"
   }
 ]
