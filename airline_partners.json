@@ -1,0 +1,110 @@
+[
+  {
+    "partner": "Singapore Airlines KrisFlyer",
+    "hasBonus": true,
+    "bonusPercent": 15,
+    "expires": "2026-04-26",
+    "detail": "Limited time 15% bonus",
+    "source": "https://www.americanexpress.com/en-au/rewards/membership-rewards/",
+    "checkedAt": "2026-04-12"
+  },
+  {
+    "partner": "Virgin Australia Velocity",
+    "hasBonus": false,
+    "bonusPercent": null,
+    "expires": null,
+    "detail": "No bonus here",
+    "source": "https://www.americanexpress.com/en-au/rewards/membership-rewards/",
+    "checkedAt": "2026-04-12"
+  },
+  {
+    "partner": "Cathay Pacific Asia Miles",
+    "hasBonus": true,
+    "bonusPercent": 10,
+    "expires": "2026-05-12",
+    "detail": "Limited time 10% bonus",
+    "source": "https://www.americanexpress.com/en-au/rewards/membership-rewards/",
+    "checkedAt": "2026-04-12"
+  },
+  {
+    "partner": "Emirates Skywards",
+    "hasBonus": true,
+    "bonusPercent": 25,
+    "expires": "2026-04-30",
+    "detail": "Limited time 25% bonus",
+    "source": "https://www.americanexpress.com/en-au/rewards/membership-rewards/",
+    "checkedAt": "2026-04-12"
+  },
+  {
+    "partner": "Qatar Airways Privilege Club",
+    "hasBonus": false,
+    "bonusPercent": null,
+    "expires": null,
+    "detail": "No bonus here",
+    "source": "https://www.americanexpress.com/en-au/rewards/membership-rewards/",
+    "checkedAt": "2026-04-12"
+  },
+  {
+    "partner": "Air New Zealand Airpoints",
+    "hasBonus": false,
+    "bonusPercent": null,
+    "expires": null,
+    "detail": "No bonus here",
+    "source": "https://www.americanexpress.com/en-au/rewards/membership-rewards/",
+    "checkedAt": "2026-04-12"
+  },
+  {
+  "partner": "British Airways Executive Club",
+  "hasBonus": false,
+  "bonusPercent": null,
+  "expires": null,
+  "detail": "No bonus here",
+  "source": "https://www.americanexpress.com/en-au/rewards/membership-rewards/",
+  "checkedAt": "2026-04-12"
+  },
+  {
+  "partner": "Air France KLM Flying Blue",
+  "hasBonus": false,
+  "bonusPercent": null,
+  "expires": null,
+  "detail": "No bonus here",
+  "source": "https://www.americanexpress.com/en-au/rewards/membership-rewards/",
+  "checkedAt": "2026-04-12"
+  },
+  {
+  "partner": "Delta SkyMiles",
+  "hasBonus": false,
+  "bonusPercent": null,
+  "expires": null,
+  "detail": "No bonus here",
+  "source": "https://www.americanexpress.com/en-au/rewards/membership-rewards/",
+  "checkedAt": "2026-04-12"
+  },
+  {
+  "partner": "Etihad Guest",
+  "hasBonus": false,
+  "bonusPercent": null,
+  "expires": null,
+  "detail": "No bonus here",
+  "source": "https://www.americanexpress.com/en-au/rewards/membership-rewards/",
+  "checkedAt": "2026-04-12"
+  },
+  {
+  "partner": "Malaysia Airlines Enrich",
+  "hasBonus": false,
+  "bonusPercent": null,
+  "expires": null,
+  "detail": "No bonus here",
+  "source": "https://www.americanexpress.com/en-au/rewards/membership-rewards/",
+  "checkedAt": "2026-04-12"
+  },
+  {
+  "partner": "Virgin Atlantic Flying Club",
+  "hasBonus": false,
+  "bonusPercent": null,
+  "expires": null,
+  "detail": "No bonus here",
+  "source": "https://www.americanexpress.com/en-au/rewards/membership-rewards/",
+  "checkedAt": "2026-04-12"
+  }
+]
