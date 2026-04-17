@@ -1,6 +1,6 @@
 [
   {
-    "partner": "Singapore Airlines KrisFlyer",
+    "partner": "KrisFlyer",
     "hasBonus": true,
     "bonusPercent": 15,
     "expires": "2026-04-26",
@@ -9,7 +9,7 @@
     "checkedAt": "2026-04-12"
   },
   {
-    "partner": "Virgin Australia Velocity",
+    "partner": "Velocity",
     "hasBonus": false,
     "bonusPercent": null,
     "expires": null,
@@ -18,7 +18,7 @@
     "checkedAt": "2026-04-12"
   },
   {
-    "partner": "Cathay Pacific Asia Miles",
+    "partner": "Asia Miles",
     "hasBonus": true,
     "bonusPercent": 10,
     "expires": "2026-05-12",
@@ -106,5 +106,14 @@
   "detail": "No bonus here",
   "source": "https://www.americanexpress.com/en-au/rewards/membership-rewards/",
   "checkedAt": "2026-04-12"
-  }
+  },
+  {
+  "partner": "Qantas Frequent Flyer",
+  "hasBonus": false,
+  "bonusPercent": null,
+  "expires": null,
+  "detail": "No bonus here",
+  "source": "https://www.americanexpress.com/en-au/rewards/membership-rewards/",
+  "checkedAt": "2026-04-17"
+}
 ]
